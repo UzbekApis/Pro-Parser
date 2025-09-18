@@ -313,6 +313,7 @@ MIT License - bepul foydalanish va o'zgartirish mumkin.
 
 ---
 
-**Yaratuvchi:** UzbekApis 
+**Yaratuvchi:** UzbekApis  
+
 **Versiya:** 1.0.0  
 **So'nggi yangilanish:** 2025
