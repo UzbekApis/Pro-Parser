@@ -1,5 +1,5 @@
 <?php
-require "ProParser.php";
+require_once 'HtmlParser.php';
 
 // HTML test kodlari
 $html = '
