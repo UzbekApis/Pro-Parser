@@ -313,6 +313,6 @@ MIT License - bepul foydalanish va o'zgartirish mumkin.
 
 ---
 
-**Yaratuvchi:** PHP HTML Parser Team  
+**Yaratuvchi:** UzbekApis 
 **Versiya:** 1.0.0  
-**So'nggi yangilanish:** 2024
+**So'nggi yangilanish:** 2025
